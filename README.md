@@ -1,3 +1,10 @@
+## TODO:
+- [ ] Add SAM (text or click-guided) cell to demo to initialize TAPIR with mask
+- [ ] Add mmpose call "" with first-frame keypoints
+- [ ] Add clickable keypoints on first-frame in colab/jupyter
+
+
+# Official TAP README
 Welcome to the official Google Deepmind repository for Tracking Any Point (TAP), home
 of the TAP-Vid Dataset and our top-performing TAPIR model.
 
