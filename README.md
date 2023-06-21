@@ -1,5 +1,6 @@
 ## TODO:
-- [ ] Add SAM (text or click-guided) cell to demo to initialize TAPIR with mask
+- [x] Add SAM (text or click-guided) cell to demo to initialize TAPIR with mask
+|[Using SAM to initialize TapNet](docs/horseymask.png)
 - [ ] Add mmpose call "" with first-frame keypoints
 - [ ] Add clickable keypoints on first-frame in colab/jupyter
 
