@@ -1,5 +1,5 @@
 ## TODO:
-- [x] Use Meta's SAM to initialize TAPIR with mask
+- [x] Use Meta's SAM to initialize TAPIR with mask [adapted from](https://colab.research.google.com/github/roboflow-ai/notebooks/blob/main/notebooks/how-to-segment-anything-with-sam.ipynb#scrollTo=1H9YruJen0Q8)
 ![Using SAM to initialize TapNet](docs/horseymask.png)
 ![SAM-Horse gif](docs/horseyoutput.gif)
 - [ ] Use mmpose to initialize TAPIR with pose
